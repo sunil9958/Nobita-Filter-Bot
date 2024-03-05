@@ -22,10 +22,10 @@ BOT_TOKEN = environ.get('BOT_TOKEN')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/61ef9818986cef9554017.jpg https://telegra.ph/file/4696ff67a5bae3ea92c14.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/61ef9818986cef9554017.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/20280cba4d170583e699f.jpg https://telegra.ph/file/a41bd7562e98b267d601e.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/a41bd7562e98b267d601e.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/a41bd7562e98b267d601e.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/a41bd7562e98b267d601e.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -58,7 +58,7 @@ APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'onepagelink.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '8c09653e5c38f84d1b76ad3197c5a023e53b494d')
+SHORTLINK_API = environ.get('SHORTLINK_API', '08c34ce0a9435b5d6d093c07f162acb6cc1bd9f5')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "8")
