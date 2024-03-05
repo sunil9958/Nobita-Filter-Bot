@@ -1220,7 +1220,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://t.me/+5zIQm8jLvdxiMmE1"),
             InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://telegram.me/svfilmsx_official")
         ],[
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://telegram.me/svilmsx_official"),
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://telegram.me/svfilmsx_official"),
             InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url="https://t.me/New_Movies_Web_Series_Update")
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ​', callback_data='start')
