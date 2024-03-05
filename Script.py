@@ -18,7 +18,7 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟</b>  {}
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href=https://youtube.com/@cricketupdate24x7>SvFilmsX </a>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟</b>  <a href=https://youtube.com/@cricketupdate24x7>SvFilmsX</a>
 <b>➣ ʟɪʙʀᴀʀʏ ⋟</b>  𝘱𝘺𝘳𝘰𝘨𝘳𝘢𝘮
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟</b>  𝘱𝘺𝘵𝘩𝘰𝘯 3
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟</b>  𝘮𝘰𝘯𝘨𝘰 𝘥𝘣
@@ -70,8 +70,8 @@ class script(object):
 
 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
 
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a></b>"""
+<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/svfilmsx_admin'>ʙᴏss</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/svfilmsx_admin'>ʙᴏss</a></b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
@@ -178,7 +178,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
 𝟹) ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ
 
-<b><a href=https://telegram.me/NobiDeveloperr>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
+<b><a href=https://telegram.me/svfilmsx_admin>~ ʀᴇǫᴜᴇ𝗌ᴛ ᴛᴏ ᴏᴡɴᴇʀ</a></b>
 """
 
     TOP_ALRT_MSG = """ꜱᴇᴀʀᴄʜɪɴɢ  ɪɴ  ᴅᴀᴛᴀʙᴀꜱᴇ..."""
@@ -198,7 +198,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ☎️ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「 <a href='https://telegram.me/NobiDeveloper'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
+<b>──────「 <a href='https://telegram.me/svfilmsx_admin'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」──────
 
 ➥ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏꜰ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ᴛʜɪꜱ ʙᴏᴛ.
 
@@ -233,7 +233,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 ☆ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs ᴍᴇᴛʜᴏᴅ ᴛᴏ ɢᴇᴛᴛɪɴɢ ʏᴏᴜ ꜰɪʟᴇ
 
-❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @NobiDeveloper
+❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ @svfilmsx_official
 """
 
     NORSLTS = """
@@ -244,14 +244,14 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-[{file_name}](https://telegram.me/NobiDeveloper)
+[{file_name}](https://telegram.me/svfilmsx_admin)
 
 <b>•────•────────•────•
-📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/AllRequestGroups)
-🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/MovieVillaYT)
+📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/+5zIQm8jLvdxiMmE1)
+🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/New_Movies_Web_Series_Update)
 •────•────────•────•
 
-©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ](https://youtube.com/@NobiDeveloper)</b>"""
+©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [svfilmsx official](https://youtube.com/@cricketupdate24x7)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>{title}</b>
