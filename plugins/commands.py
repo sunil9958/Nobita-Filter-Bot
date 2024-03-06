@@ -967,7 +967,7 @@ async def shortlink(bot, message):
         InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://github.com/sunil9958/Nobita-Filter-Bot"),
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/svfilmsx_official")
         ],[
-        InlineKeyboardButton(text="ᴀᴅᴅ  ʏᴏᴜʀ  ꜱʜᴏʀᴛɴᴇʀ", url="http://telegram.me/Svfilmsx_official?startgroup=true")
+        InlineKeyboardButton(text="ᴀᴅᴅ  ʏᴏᴜʀ  ꜱʜᴏʀᴛɴᴇʀ", url="http://telegram.me/movies_provider_sv_bot?startgroup=true")
     ]]
     chat_type = message.chat.type
     if chat_type == enums.ChatType.PRIVATE:
