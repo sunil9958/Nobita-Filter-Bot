@@ -57,7 +57,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅs", url="https://tools.apgy.in/upi/SvFilmsX/BHARATPE09917110955@yesbankltd/")
         ],[
-            InlineKeyboardButton("ʙᴜʏ PREMIUM : ʀᴇᴍᴏᴠᴇ ᴀᴅs", callback_data="my_plan")
+            InlineKeyboardButton("ʙᴜʏ PREMIUM : ʀᴇᴍᴏᴠᴇ ᴀᴅs", callback_data="buy_premium")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
