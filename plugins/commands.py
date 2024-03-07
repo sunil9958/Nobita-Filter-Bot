@@ -1173,7 +1173,7 @@ async def plans_cmd_handler(client, message):
     reply_markup = InlineKeyboardMarkup(btn)
     await message.reply_photo(
         photo="https://telegra.ph/file/0c496e7f82cd7619f74f5.jpg",
-        caption="**Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇs 🎁\n\n☆ No Need To Verify\n☆ Ad Free Experience\n☆ Unlimited Movie And Series",
+        caption="**Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇs 🎁\n\n☆ No Need To Verify\n☆ Ad Free Experience\n☆ Unlimited Movie And Series\n\n☆ Plan Detain 👇\n\n☆  10₹ - 1 day ( Trail )/n☆  30₹ - 1 week/n☆  70₹ - 1 month\n☆  350₹ - 6 months\n☆  600₹ - 1 year",
         reply_markup=reply_markup
     )
         
