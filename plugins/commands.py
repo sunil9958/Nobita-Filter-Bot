@@ -57,7 +57,7 @@ async def start(client, message):
             ],[
             InlineKeyboardButton("ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅs", url="https://tools.apgy.in/upi/SvFilmsX/BHARATPE09917110955@yesbankltd/")
         ],[
-            InlineKeyboardButton("ʙᴜʏ PREMIUM : ʀᴇᴍᴏᴠᴇ ᴀᴅs", callback_data="buy_premium")
+            InlineKeyboardButton("ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅs", callback_data="my_plans")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -1157,7 +1157,7 @@ async def remove_premium_cmd_handler(client, message):
             await message.reply_text("Premium access removed to the user.")
             await client.send_message(
                 chat_id=user_id,
-                text=f"<b>premium removed by admins \n\n Contact Admin if this is mistake \n\n 👮 Admin : @NobiDeveloperr \n</b>",                
+                text=f"<b>premium removed by admins \n\n Contact Admin if this is mistake \n\n 👮 Admin : @SvFilmsX_Admin \n</b>",                
             )
         else:
             await message.reply_text("Invalid time format.'")
@@ -1173,7 +1173,13 @@ async def plans_cmd_handler(client, message):
     reply_markup = InlineKeyboardMarkup(btn)
     await message.reply_photo(
         photo="https://telegra.ph/file/0c496e7f82cd7619f74f5.jpg",
-        caption="**Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇs 🎁\n\n☆ No Need To Verify\n☆ Ad Free Experience\n☆ Unlimited Movie And Series\n\n☆ Plan Detain 👇\n\n☆  10₹ - 1 day ( Trail )/n☆  30₹ - 1 week/n☆  70₹ - 1 month\n☆  350₹ - 6 months\n☆  600₹ - 1 year",
+        caption="**Pʀᴇᴍɪᴜᴍ Fᴇᴀᴛᴜʀᴇs 🎁\n\n☆ No Need To Verify\n☆ Ad Free Experience\n☆ Unlimited Movie And Series\n\n☆ Plan Detain 👇\n\n☆ Plan Detain 👇\n\n
+☆  10₹ - 1 day ( Trail )\n
+☆  30₹ - 1 week\n
+☆  70₹ - 1 month\n
+☆  350₹ - 6 months\n
+☆  600₹ - 1 year\n\n
+After Payment Send Screenshot Of Admin 😍",
         reply_markup=reply_markup
     )
         
