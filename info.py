@@ -48,7 +48,7 @@ DATABASE_NAME = environ.get("DATABASE_NAME", "Nobita")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # stickers
-STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAEKk8BlNPrdTHUdjCkHswRS7FEGD57bQgADDQACryfoV7k_sTsjJTYAATAE CAACAgUAAxkBAAEKk75lNPrc-rw4n-xEqmgMA14lO_lzMQACLwcAApzI6VfWL2jjZeNSATAE')).split()
+STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAELtdpl9Id1GNlw7c59CXBVcdUQHLf0ywACDQ8AAt3nuVY0scRzpe4P3DQE CAACAgUAAxkBAAELtd5l9IfB0vr2cuJvFipkS4AXeN4-sgACyAwAAvp02VaA3TB5YFz9FjQE')).split()
 
 #Auto approve 
 CHAT_ID = [int(app_chat_id) if id_pattern.search(app_chat_id) else app_chat_id for app_chat_id in environ.get('CHAT_ID', '').split()]
